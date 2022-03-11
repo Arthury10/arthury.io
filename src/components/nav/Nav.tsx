@@ -1,10 +1,9 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
 import './nav.css'
-import {AiOutlineBook, AiOutlineFileWord, AiOutlineHome, AiOutlinePoundCircle} from 'react-icons/ai'
+import {AiOutlineBook, AiOutlineHome} from 'react-icons/ai'
 import {AiOutlineUser} from 'react-icons/ai'
 import {BiBook, BiBookContent} from 'react-icons/bi'
-import {RiServiceLine} from 'react-icons/ri'
 import {BiMessageSquareDetail} from 'react-icons/bi'
 import {useState} from 'react'
 

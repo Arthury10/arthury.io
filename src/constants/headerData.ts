@@ -3,7 +3,7 @@ import me from '../assets/me2.png'
 export const headerData = {
   preTitle: "Olá, eu sou",
   title: "Arthur Ropke",
-  subtitle: "Web developer and Mobile developer",
+  subtitle: "DEV FRONT-END WEB E MOBILE",
   img: me,
   scrollDown: 'Scroll Down',
 }
