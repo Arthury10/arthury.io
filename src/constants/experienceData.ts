@@ -6,55 +6,51 @@ export const experienceData = {
     experience: [
       {
         title: "HTML",
-        description: "Experiente",
       },
       {
         title: "CSS",
-        description: "Experiente",
       },
       {
         title: "Bootstrap",
-        description: "Intermediário",
       },
       {
         title: "JavaScript",
-        description: "Experiente",
       },
       {
         title: "TypeScript",
-        description: "Experiente",
       },
       {
         title: "React",
-        description: "Intermediário",
-      },
-      {
-        title: "Styled Components",
-        description: "Intermediário",
-      },
-      {
-        title: "Chakra UI",
-        description: "Intermediário",
       },
       {
         title: "React Native",
-        description: "Intermediário",
+      },
+      {
+        title: "Angular",
+      },
+      {
+        title: "Atomic-Design",
+      },
+      {
+        title: "Styled-Components",
+      },
+      {
+        title: "Chakra UI",
       },
       {
         title: "Magnus UI", 
-        description: "Intermediário",
       },
       {
         title: "NextJS",
-        description: "Basic",
       },
       {
         title: "GraphQL",
-        description: "Basic",
+      },
+      {
+        title: "Apollo-Client",
       },
       {
         title: "WordPress",
-        description: "Basic",
       },
     ]
   }
