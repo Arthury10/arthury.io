@@ -2,21 +2,21 @@ import React from 'react'
 import './contact.css'
 import {MdOutlineEmail} from 'react-icons/md'
 import {BsInstagram, BsWhatsapp} from 'react-icons/bs'
-import { useRef } from 'react';
-import emailjs from 'emailjs-com'
+// import { useRef } from 'react';
+// import emailjs from 'emailjs-com'
 import { contactData, contactInputs } from '../../constants/contactData'
 
 const Contact = () => {
   const {inputs, btn } = contactInputs
-  const form = useRef();
+  // const form = useRef();
 
-  const sendEmail = (e) => {
-    e.preventDefault();
+  // const sendEmail = (e) => {
+  //   e.preventDefault();
 
-    emailjs.sendForm('service_3fjfb17', 'template_ky1ucaz', form.current, 'user_641J0AWGxx4qcKi835yDq')
+  //   emailjs.sendForm('service_3fjfb17', 'template_ky1ucaz', form.current, 'user_641J0AWGxx4qcKi835yDq')
 
-    e.target.reset()
-  };
+  //   e.target.reset()
+  // };
 
   const {preTitle, title, contacts} = contactData
 
