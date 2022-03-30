@@ -45,7 +45,12 @@ const Contact = () => {
             ))}
         </div>
         {/* END OF CONTACT OPTIONS */}
-        <form ref={form} onSubmit={sendEmail}>
+        <form 
+          // ref={form} 
+          // onSubmit={sendEmail} 
+          action="https://formspree.io/f/xdoyrdlr"
+          method="POST"
+          >
           {inputs.map((item) => (
           <>
           {item.type !== 'textarea' && (
