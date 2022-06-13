@@ -4,11 +4,11 @@ export const aboutData = {
   experience: [
     {
       title: "Experiência",
-      description: "2+ meses de trabalho",
+      description: "7+ meses de trabalho",
     },
     {
       title: "Projetos",
-      description: "3+ projetos",
+      description: "6+ projetos",
 
     }
   ],
