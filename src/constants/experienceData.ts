@@ -44,6 +44,9 @@ export const experienceData = {
         title: "NextJS",
       },
       {
+        title: "Expo-cli"
+      },
+      {
         title: "GraphQL",
       },
       {
@@ -52,6 +55,28 @@ export const experienceData = {
       {
         title: "WordPress",
       },
+    ]
+  }, experienceBackEnd: {
+    title: "Back-End Developer",
+    experience: [
+      {
+        title: "NodeJS",
+      },
+      {
+        title: "Apollo-Server",
+      },
+      {
+        title: "graphQL"
+      },
+      {
+        title: "PrismaORM",
+      },
+      {
+        title: "TypeORM",
+      },
+      {
+        title: "FaunaDB",
+      }
     ]
   }
 }

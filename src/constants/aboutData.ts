@@ -4,12 +4,11 @@ export const aboutData = {
   experience: [
     {
       title: "Experiência",
-      description: "7+ meses de trabalho",
+      description: "8+ meses de trabalho profissional",
     },
     {
       title: "Projetos",
-      description: "6+ projetos",
-
+      description: "Diversos projetos, web tanto mobile",
     }
   ],
   about: `Olá, me chamo Arthur e tenho 20 anos, atualmente estudo Análise e Desenvolvimento de Sistemas no Senac Pelotas. 
