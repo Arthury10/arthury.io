@@ -1,10 +1,12 @@
+import { accountYearsWork } from "../utils/accountYearsWork"
+
 export const aboutData = {
   preTitle: "Conhecer",
   title: "Sobre mim",
   experience: [
     {
       title: "Experiência",
-      description: "10+ meses de trabalho profissional",
+      description: `${accountYearsWork()} de trabalho profissional`,
     },
     {
       title: "Projetos",
