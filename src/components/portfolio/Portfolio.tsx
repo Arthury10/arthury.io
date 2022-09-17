@@ -46,7 +46,7 @@ const Portfolio = () => {
     }
     getRepositories()
     resizeWindow()
-  })
+  },[])
 
   
 
